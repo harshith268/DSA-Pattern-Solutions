@@ -9,22 +9,7 @@ The goal of this repository is:
 - ✅ To provide a **clean learning resource** for others
 - ✅ To include **Brute Force → Better → Optimal** approaches wherever applicable
 
----
 
-## 📂 Repository Structure
-
-dsa/
-├── README.md # Topic / Pattern list
-└── stack/
-├── README.md # Stack problems table
-├── java/
-│ └── 0020-valid-parentheses.java
-└── python/
-└── 0020-valid-parentheses.py
-
-
-
----
 
 ## 🧠 How This Repository is Organized
 
